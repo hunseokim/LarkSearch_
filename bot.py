@@ -343,4 +343,4 @@ async def 명령어(ctx):
     embed.set_footer(text="LarkSearch", icon_url="https://bit.ly/3FzSF1Q")
     await ctx.send(embed=embed)
 
-bot.run('OTMwNTQxNTE4MzcxMDUzNTk5.Yd3YUg.UZ4EI-fhPTHpt4hvBpbW0ZLqYcQ')
+bot.run('')
