@@ -3,4 +3,4 @@
 * * *
 도움말: !도움말/!명령어/!help
 
-> ## [초대하기](https://discord.com/api/oauth2/authorize?client_id=930541518371053599&permissions=1644905888880&scope=bot)
+> ## [초대하기](https://bit.ly/larksearchbot)
